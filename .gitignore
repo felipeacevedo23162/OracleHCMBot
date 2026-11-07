@@ -10,3 +10,4 @@ reports/*
 !reports/.gitkeep
 .pytest_cache/
 .coverage
+.vscode/
