@@ -1,0 +1,23 @@
+# No se incluyen selectores inventados. Completar únicamente con valores
+# verificados contra el DOM accesible del entorno Oracle autorizado.
+session:
+  authenticated: NO_CONFIGURADO
+employee_search:
+  person_number: NO_CONFIGURADO
+  search_button: NO_CONFIGURADO
+assignment:
+  unique_result: NO_CONFIGURADO
+  update_action: NO_CONFIGURADO
+form:
+  WorkFromHome: NO_CONFIGURADO
+  WorkerCategory: NO_CONFIGURADO
+  EPS: NO_CONFIGURADO
+  PensionFund: NO_CONFIGURADO
+  SeveranceFund: NO_CONFIGURADO
+  ARL: NO_CONFIGURADO
+  CCF: NO_CONFIGURADO
+  RiskLevel: NO_CONFIGURADO
+transaction:
+  review_button: NO_CONFIGURADO
+  submit_button: NO_CONFIGURADO
+  confirmation: NO_CONFIGURADO

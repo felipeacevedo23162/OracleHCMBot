@@ -1,0 +1,10 @@
+# Catálogos vacíos por diseño: las opciones deben exportarse/verificarse
+# desde el entorno Oracle autorizado antes de habilitar procesamiento.
+WorkFromHome: []
+WorkerCategory: []
+EPS: []
+PensionFund: []
+SeveranceFund: []
+ARL: []
+CCF: []
+RiskLevel: []
